@@ -33,6 +33,7 @@ if (age_num === 18) {       // works for loose equality (==)
 //     console.log(i);
 // }
 
+
 // let countries = ['usa', 'canada', 'mexico', 'panama', 5, 'japan'];
 // for(x in countries) {
 //     console.log(x); // prints the indexes
